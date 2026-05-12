@@ -1,0 +1,4 @@
+1     environment       환경
+16  present         "현재, 출석한, 제출하다"
+2       company           회사         
+3     government        "정부, 정치"
